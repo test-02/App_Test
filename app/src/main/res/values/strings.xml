@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App_Test</string>
+    <string name="agregar">Agregar</string>
+    <string name="nombre">Ingrese un Nombre</string>
+    <string name="apellido">Ingrese un Apellido</string>
+</resources>
